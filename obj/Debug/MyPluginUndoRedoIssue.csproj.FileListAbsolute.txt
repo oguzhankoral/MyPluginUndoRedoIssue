@@ -1,0 +1,6 @@
+C:\Users\oguzh\source\repos\MyPluginUndoRedoIssue\MyPluginUndoRedoIssue\obj\Debug\MyPluginUndoRedoIssue.csprojAssemblyReference.cache
+C:\Users\oguzh\source\repos\MyPluginUndoRedoIssue\MyPluginUndoRedoIssue\obj\Debug\MyPluginUndoRedoIssue.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\source\repos\MyPluginUndoRedoIssue\MyPluginUndoRedoIssue\bin\MyPluginUndoRedoIssue.dll
+C:\Users\oguzh\source\repos\MyPluginUndoRedoIssue\MyPluginUndoRedoIssue\bin\MyPluginUndoRedoIssue.pdb
+C:\Users\oguzh\source\repos\MyPluginUndoRedoIssue\MyPluginUndoRedoIssue\obj\Debug\MyPluginUndoRedoIssue.dll
+C:\Users\oguzh\source\repos\MyPluginUndoRedoIssue\MyPluginUndoRedoIssue\obj\Debug\MyPluginUndoRedoIssue.pdb
